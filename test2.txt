@@ -1,0 +1,16 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is B227-76D6
+
+ Directory of C:\Users\zhoujiaq\Documents\personal\javaprj1
+
+08/22/2019  10:55 PM    <DIR>          .
+08/22/2019  10:55 PM    <DIR>          ..
+08/22/2019  10:49 PM                 0 branch.txt
+08/19/2019  10:33 PM               900 Hello.class
+08/19/2019  10:23 PM               174 Hello.java
+08/21/2019  11:08 PM               571 main.java
+08/21/2019  11:02 PM               521 master.txt
+08/21/2019  07:54 PM               470 README.txt
+08/22/2019  10:55 PM                 0 test2.txt
+               7 File(s)          2,636 bytes
+               2 Dir(s)  173,752,008,704 bytes free
